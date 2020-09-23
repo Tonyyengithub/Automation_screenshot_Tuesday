@@ -12,5 +12,6 @@ We utilize chromedriver to micmic the behavior of the click.
 
 
 Result:
-<img src = "https://github.com/Tonyyengithub/Automation_scrrenshot_Tuesday/blob/master/demo/demo.png" width = "600">
+
+<img src = "https://github.com/Tonyyengithub/Automation_scrrenshot_Tuesday/blob/master/demo/demo.png" width = "900">
 
