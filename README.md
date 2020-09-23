@@ -29,6 +29,7 @@ soup_list = soup.findAll('div', class_ = "card-productName") # profuct name is p
 
 
 Result:
+The bottom right folder will keep renewing the photo in the webpages
 
 <img src = "https://github.com/Tonyyengithub/Automation_scrrenshot_Tuesday/blob/master/demo/demo.png" width = "1200">
 
